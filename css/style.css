@@ -25,6 +25,10 @@ ul li {
     display: inline-block;
 }
 
+.fa {
+    color: black;
+}
+
 /* first block header*/
 
 .headInfo {
